@@ -1,0 +1,14 @@
+Fill 2L from 4L and 3L unmarked jug.
+
+X = 4L, Y = 3L, (X,Y)
+(0,3),(3,0),(3,3),(4,2),(0,2)
+
+Fill 4L from 5L and 7L unmarked jug.
+
+X = 5L, Y = 7L, (X,Y)
+(0,7),(5,2),(0,2),(2,0),(2,7),(5,4),(0,4)
+
+Fill 6L from 7L and 11L unmarked jug.
+
+X = 7L, Y = 11L, (X,Y)
+(7,0),(0,7),(7,7),(3,11),(3,0),(0,3),(7,3),(0,10),(7,10),(6,11),(6,0)
